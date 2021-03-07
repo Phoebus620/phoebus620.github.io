@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepage
 
-You can use the [editor on GitHub](https://github.com/Phoebus620/phoebus620.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is the first attempt at website making. I used the [editor on GitHub](https://github.com/Phoebus620/phoebus620.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And I'd like to show something about myself to you.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a Master from NJU in Nanjing, China. I want to tell you about
 
 ```markdown
-Syntax highlighted code block
+What am I studying for
 
-# Header 1
-## Header 2
-### Header 3
+Which program am I doing
 
-- Bulleted
-- List
+What do I want to eat tonight
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+blabla
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Besides, these sentences above are all shown by Markdown, which is a machine language I haven't master well. You can find more details at [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Something Else
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Phoebus620/phoebus620.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I don't know what should I say but I think I can try to use  `Markdown` again.
 
-### Support or Contact
+### Here Is a Evidence that I Can Speak Chinese
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我爱你！
